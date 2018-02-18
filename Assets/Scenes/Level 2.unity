@@ -1505,6 +1505,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 2.13
       objectReference: {fileID: 0}
+    - target: {fileID: 1996176172340382, guid: 5cd7520800d0e374ba870bc84aaf58d0, type: 2}
+      propertyPath: m_Name
+      value: Obstacle (15)
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5cd7520800d0e374ba870bc84aaf58d0, type: 2}
   m_IsPrefabParent: 0
