@@ -1266,7 +1266,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4442520512531038, guid: 3f40b165125e18643b32078299a7df64, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 11.68
+      value: 33.1
       objectReference: {fileID: 0}
     - target: {fileID: 4442520512531038, guid: 3f40b165125e18643b32078299a7df64, type: 2}
       propertyPath: m_LocalRotation.x
@@ -1348,6 +1348,26 @@ Prefab:
     - target: {fileID: 1065243960399554, guid: 0182a84145506394faf14fa7eff82cd2, type: 2}
       propertyPath: m_Name
       value: Spotlight (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 108052240504745140, guid: 0182a84145506394faf14fa7eff82cd2,
+        type: 2}
+      propertyPath: m_Range
+      value: 40.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 108052240504745140, guid: 0182a84145506394faf14fa7eff82cd2,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.9599391
+      objectReference: {fileID: 0}
+    - target: {fileID: 108052240504745140, guid: 0182a84145506394faf14fa7eff82cd2,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.41911763
+      objectReference: {fileID: 0}
+    - target: {fileID: 108052240504745140, guid: 0182a84145506394faf14fa7eff82cd2,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0182a84145506394faf14fa7eff82cd2, type: 2}
